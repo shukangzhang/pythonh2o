@@ -1,6 +1,7 @@
-Anfang: 12:15:30
-Ende: 
+# python script for data analyze
+ data from $H_2O$ sensor (ATT520V)
 
+# Version Release Notes
 V0.0: back-up of 1st version
 V0.0.test: flexibel test version based on V0.1
 V0.1: main version, it works, function was already tested in V0.0.test 
